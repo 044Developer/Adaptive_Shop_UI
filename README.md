@@ -1,0 +1,1 @@
+# Adaptive_Shop_UI
